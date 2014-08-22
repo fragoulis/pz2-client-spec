@@ -5,4 +5,5 @@ The following document tries to describe the bare minimum required by an impleme
 
 ## Methods
 Name | Type | Params | Return | Description
-==== | ==== | ==== | ==== | ====
+==== | ==== | ====== | ====== | ===========
+Name | Type | Params | Return | Description

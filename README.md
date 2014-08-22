@@ -6,17 +6,17 @@ The following document tries to describe the bare minimum required by an impleme
 ## Methods
 
 Name | Type | Params | Return | Description
----- | ---- | ---- | ---- | ----
-init | public | | | 
-ping | public | | | 
+---- | :----: | ---- | ---- | ----
+init     | public | | | 
+ping     | public | | | 
 settings | public | | | 
-search | public | | | 
-stat | public | | | 
-show | public | | | 
-record | public | | | 
+search   | public | | | 
+stat     | public | | | 
+show     | public | | | 
+record   | public | | | 
 termlist | public | | | 
 bytarget | public | | | 
-service | public | | | 
+service  | public | | | 
 
 
 ## References
